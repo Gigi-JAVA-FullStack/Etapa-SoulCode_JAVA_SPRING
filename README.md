@@ -1,4 +1,4 @@
-# Etapa_JAVA_Web
+# Etapa_JAVA_SPRING
 (a) Conceitos
 (b) Ambiente de desenvolvimento
 (c) Classes, objetos, metodos e strings
